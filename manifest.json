@@ -1,0 +1,21 @@
+{
+  "version": "0.0.1",
+  "manifestVersion": "0.1.0",
+  "name": "theme-curve-vabyz",
+  "description": "theme curve",
+  "author": {
+    "name": "vabyz971",
+    "email": "vabyz971@gmail.com",
+    "url": "https://github.com/vabyz971"
+  },
+  "resources": {
+    "css": true
+  },
+  "license": "MIT",
+  "url": "https://github.com/vabyz971/keeweb-curve-vabyz-theme",
+  "publicKey": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAn7bjF6eTerOow8NHph+riPG7jt/2LkFEgAJie8taEEHttBJnwVKZcb0GyGrk+rsG55ViiScA+ADOOAA68E3SBIUUmXNFHFx3zxBMtEnrPQv+Lwze9cGyvRR6QzkA5O/zA6u3jkuZRtNMtRDKCEZYLp7RRAw7YgnprgfZ57HVkltSCuKrHS8q7PdQPRMfQx8eKSW9Qe8OBjnATZMmQZVdcJXTRXPqhcP0RTNxrnZ+eKDn4OHo8e66z85A5sfIlcwfzsXW3iCdEphdw1riJrcLLXoFJSSyQK1OiLQJcQSVlIvFKfAMeOEsn8svY5VhhzceiF2nI+1pUVmRihhu/ZWiHwIDAQAB",
+  "theme": {
+    "name": "keeweb-curve-vabyz",
+    "title": "keeweb-curve-vabyz theme (Development)"
+  }
+}
