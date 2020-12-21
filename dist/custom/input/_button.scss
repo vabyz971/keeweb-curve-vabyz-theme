@@ -1,0 +1,15 @@
+
+button{
+    border-radius: 5px;
+
+}
+
+button.btn-silent{
+    background-color: $--btn-silent;
+    color: $--text-color;
+}
+
+button.btn-error{
+    background-color: $--btn-error;
+    color: $--text-color;
+}

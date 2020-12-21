@@ -1,0 +1,76 @@
+// Background
+
+.app__menu {
+  background-color: $backgroundPrimary;
+  color: $--text-color;
+
+  .menu {
+    .menu__section {
+      .menu__item {
+        transition: cubic-bezier(0.47, -0.39, 0, 0.9) 0.2s;
+
+        &:hover {
+          background: $backgroundSeconde-low;
+          border-top-left-radius: 20px;
+          border-bottom-left-radius: 20px;
+          transform: translateX(15px);
+        }
+      }
+
+      .menu__item--active {
+        background: $backgroundSeconde-low;
+        border-top-left-radius: 20px;
+        border-bottom-left-radius: 20px;
+        transform: translateX(15px);
+      }
+    }
+  }
+}
+
+.app__menu-drag {
+  width: 5px;
+  background: $backgroundSeconde-low;
+}
+
+.app__list {
+  background-color: $backgroundSeconde;
+  color: $--text-color;
+
+  .list__item {
+    i {
+      width: 42px;
+      height: 42px;
+      font-size: 42px;
+    }
+
+    .list__item-title {
+      font-size: 1.3rem;
+    }
+
+    .list__item-descr {
+      font-size: 1rem;
+      transform: translate3d(55px, -20px, 0px);
+      margin: 0;
+    }
+  }
+}
+
+.app__list-darg {
+  width: 5px;
+  background: $backgroundSeconde-low;
+}
+
+.app__details {
+  background-color: $backgroundSeconde;
+  color: $--text-color;
+}
+
+.settings {
+  background-color: $backgroundSeconde;
+  color: $--text-color;
+}
+
+.footer {
+  background-color: $backgroundPrimary;
+  color: $--text-color;
+}

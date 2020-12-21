@@ -1,7 +1,51 @@
-.th-keeweb-curve-vabyz {
-  --background-color: #282c34;
-  --medium-color: #abb2bf;
-  --text-color: #d7dae0;
-  --action-color: #528bff;
-  --error-color: #c34034;
-}
+.th-keeweb-curve-vabyz .app__menu {
+  background-color: #1b1a30;
+  color: #fff; }
+  .th-keeweb-curve-vabyz .app__menu .menu .menu__section .menu__item {
+    transition: cubic-bezier(0.47, -0.39, 0, 0.9) 0.2s; }
+    .th-keeweb-curve-vabyz .app__menu .menu .menu__section .menu__item:hover {
+      background: #3d3950;
+      border-top-left-radius: 20px;
+      border-bottom-left-radius: 20px;
+      transform: translateX(15px); }
+  .th-keeweb-curve-vabyz .app__menu .menu .menu__section .menu__item--active {
+    background: #3d3950;
+    border-top-left-radius: 20px;
+    border-bottom-left-radius: 20px;
+    transform: translateX(15px); }
+.th-keeweb-curve-vabyz .app__menu-drag {
+  width: 5px;
+  background: #3d3950; }
+.th-keeweb-curve-vabyz .app__list {
+  background-color: #2a283e;
+  color: #fff; }
+  .th-keeweb-curve-vabyz .app__list .list__item i {
+    width: 42px;
+    height: 42px;
+    font-size: 42px; }
+  .th-keeweb-curve-vabyz .app__list .list__item .list__item-title {
+    font-size: 1.3rem; }
+  .th-keeweb-curve-vabyz .app__list .list__item .list__item-descr {
+    font-size: 1rem;
+    transform: translate3d(55px, -20px, 0px);
+    margin: 0; }
+.th-keeweb-curve-vabyz .app__list-darg {
+  width: 5px;
+  background: #3d3950; }
+.th-keeweb-curve-vabyz .app__details {
+  background-color: #2a283e;
+  color: #fff; }
+.th-keeweb-curve-vabyz .settings {
+  background-color: #2a283e;
+  color: #fff; }
+.th-keeweb-curve-vabyz .footer {
+  background-color: #1b1a30;
+  color: #fff; }
+.th-keeweb-curve-vabyz button {
+  border-radius: 5px; }
+.th-keeweb-curve-vabyz button.btn-silent {
+  background-color: #565468;
+  color: #fff; }
+.th-keeweb-curve-vabyz button.btn-error {
+  background-color: #ed5f5e;
+  color: #fff; }
