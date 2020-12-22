@@ -1,0 +1,83 @@
+.th-keeweb-curve-vabyz .app__menu {
+  background-color: #131736;
+  color: #fff; }
+  .th-keeweb-curve-vabyz .app__menu .menu .menu__section .menu__item {
+    transition: cubic-bezier(0.47, -0.39, 0, 0.9) 0.2s; }
+  .th-keeweb-curve-vabyz .app__menu .menu .menu__section .menu__item--active {
+    box-shadow: 0 0 10px 2px #954e8f;
+    background: linear-gradient(58deg, #e96443 0%, #904e95 100%); }
+.th-keeweb-curve-vabyz .app__menu-drag {
+  width: 5px;
+  background: #28313B; }
+.th-keeweb-curve-vabyz .app__list {
+  background-color: #1c2351;
+  color: #fff; }
+  .th-keeweb-curve-vabyz .app__list .list__item {
+    transition: cubic-bezier(0.165, 0.84, 0.44, 1) 0.3s; }
+    .th-keeweb-curve-vabyz .app__list .list__item i {
+      width: 42px;
+      height: 42px;
+      font-size: 42px; }
+    .th-keeweb-curve-vabyz .app__list .list__item .list__item-title {
+      font-size: 1.3rem; }
+    .th-keeweb-curve-vabyz .app__list .list__item .list__item-descr {
+      font-size: 1rem;
+      transform: translate3d(55px, -20px, 0px);
+      margin: 0; }
+  .th-keeweb-curve-vabyz .app__list .list__item--active {
+    box-shadow: 0 0 10px 2px #954e8f;
+    background: linear-gradient(58deg, #e96443 0%, #904e95 100%); }
+  .th-keeweb-curve-vabyz .app__list .list__search input {
+    border: solid 2.2px #4e4376; }
+.th-keeweb-curve-vabyz .app__list-drag {
+  width: 5px;
+  background: #28313B; }
+.th-keeweb-curve-vabyz .open,
+.th-keeweb-curve-vabyz .dropdown,
+.th-keeweb-curve-vabyz .app__panel,
+.th-keeweb-curve-vabyz .app__details {
+  background: #2b5876;
+  background: linear-gradient(58deg, #4e4376 0%, #2b5876 100%);
+  color: #fff; }
+.th-keeweb-curve-vabyz .settings {
+  background-color: #1c2351;
+  color: #fff; }
+.th-keeweb-curve-vabyz .footer {
+  background-color: #131736;
+  color: #fff; }
+.th-keeweb-curve-vabyz .modal {
+  color: #fff; }
+  .th-keeweb-curve-vabyz .modal .modal__content .modal__buttons button {
+    transition: 0.2s;
+    background-color: #3bc041; }
+  .th-keeweb-curve-vabyz .modal .modal__content .modal__buttons button:hover {
+    background-color: #3bc041;
+    box-shadow: 0 0 10px 2px #3bc041; }
+.th-keeweb-curve-vabyz .modal::before {
+  background-attachment: fixed;
+  content: " ";
+  top: 0;
+  bottom: 0;
+  right: 0;
+  left: 0;
+  position: absolute;
+  z-index: -1;
+  background-color: rgba(15, 5, 49, 0.472); }
+.th-keeweb-curve-vabyz .dropdown .dropdown__item {
+  color: #fff; }
+.th-keeweb-curve-vabyz .gen {
+  color: #fff; }
+.th-keeweb-curve-vabyz button {
+  border-radius: 5px; }
+.th-keeweb-curve-vabyz button.btn-silent {
+  background-color: #565468;
+  color: #fff; }
+.th-keeweb-curve-vabyz button.btn-error {
+  background-color: #ed5f5e;
+  color: #fff; }
+.th-keeweb-curve-vabyz select {
+  border: solid 2.2px #ffffff24;
+  border-radius: 20px;
+  padding-left: 10px; }
+  .th-keeweb-curve-vabyz select option {
+    background-color: #1c2351; }
