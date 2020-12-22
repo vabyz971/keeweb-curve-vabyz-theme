@@ -9,11 +9,11 @@
     "url": "https://github.com/vabyz971"
   },
   "resources": {
-    "css": "TF8gZljzy/sQhmYToF65qLcYpv4L52RsAFXmrHXovCreBuHUUl4pG6XGEcy6r7RRgBI/xyqhoZtPYJ8j6PALG+eQxLOhYquyGUoTmc2UMOviuQlesjW7TiYnTH7Oce4+tF1YZs9dgDqfmuUa3pI1aULF9fKNdg4Ms4SVnc2//dt5do1BdGimCc9K7HQHi1o67qRMYUbCL75yTi24pFgPRl/E0QoEh1m1bQtjYICQtyYY5XcakmJBxE/zlmE0Ra6yOs6AwJJLaOpMOlbv/rF8V9wjPenXpm73vP/rkDKgXmqyfZ8zyGt33TcCiwB9aaRhXprWlWr8oW5wpFiqM/EDkA=="
+    "css": true
   },
   "license": "MIT",
   "url": "https://github.com/vabyz971/keeweb-curve-vabyz-theme",
-  "publicKey": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAn7bjF6eTerOow8NHph+riPG7jt/2LkFEgAJie8taEEHttBJnwVKZcb0GyGrk+rsG55ViiScA+ADOOAA68E3SBIUUmXNFHFx3zxBMtEnrPQv+Lwze9cGyvRR6QzkA5O/zA6u3jkuZRtNMtRDKCEZYLp7RRAw7YgnprgfZ57HVkltSCuKrHS8q7PdQPRMfQx8eKSW9Qe8OBjnATZMmQZVdcJXTRXPqhcP0RTNxrnZ+eKDn4OHo8e66z85A5sfIlcwfzsXW3iCdEphdw1riJrcLLXoFJSSyQK1OiLQJcQSVlIvFKfAMeOEsn8svY5VhhzceiF2nI+1pUVmRihhu/ZWiHwIDAQAB",
+  "publicKey": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAt36pUwNjvL0X9r6AisId3I0IZUJN5XKt1S7KKTzqssVJKNtgI2SpI/1c0kWFt8PXjdFBsV849pFj4OQTRoGC9K5GvxX0KGDOYvrXTJlUnXMWsozkGaeD9FCOwn64cnVoTlSTQDGPfkZlWX03jpzQngYZ67/2EOF5URdu895D7Kcj/aS+Ag606O5xMk3dU/N+mmr9iyn6XAAfGiW6QR7zFLHom8rLUeEXzZlRjwo3xwoSU01NhBxT+BZCifmbGvay8f2J0Nnk7TSnCyVmz1TGVOnkzAq3aJuJDkOJMyQKU4wmvLBAY4lE63Fa6XKC8yzJAmACG133vm+cRMCt2aoZuQIDAQAB",
   "locale": {
     "name": "",
     "title": ""
